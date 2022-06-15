@@ -1,0 +1,9 @@
+<resources>
+    <string name="logout">LogOut</string>
+
+    <string name="normal_type" translatable="false">Normal</string>
+    <string name="satellite_type" translatable="false">Satellite</string>
+    <string name="terrain_type" translatable="false">Terrain</string>
+    <string name="hybrid_type" translatable="false">Hybrid</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+</resources>

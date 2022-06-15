@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">StoryAplikasi</string>
+    <string name="email">Email</string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="create_account">Create Account</string>
+    <string name="please_fill_in_the_data_completely_and_correctly">Please fill in the data completely and correctly</string>
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+    <string name="click_here">Click Here !</string>
+    <string name="desc_empty">Please fill the description field</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="user_id">userid</string>
+    <string name="user_token">usertoken</string>
+    <string name="copyright" translatable="false">© 2022 Benita Hasna Raissa</string>
+    <string name="title_welcome_page" translatable="false">Welcome To Story Aplikasi!</string>
+    <string name="title_signup_page" translatable="false">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email_error" translatable="false">Email not valid</string>
+    <string name="password_error" translatable="false">Password Less than 6</string>
+    <string name="maps" translatable="false">Maps testing</string>
+    <string name="retry" translatable="false">Coba lagi</string>
+
+
+</resources>
